@@ -19,8 +19,9 @@ Experience:
 
 ---
 
-## Socials
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jennewsome)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newsomejen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jen.newsome@gmail.com)
+<a href="https://jennewsome.com"><img src="https://img.shields.io/badge/-%20-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/></a>
+<a href="https://www.linkedin.com/in/newsomejen"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+<a href="https://www.github.com/jennewsome"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+<a href="mailto:jen.newsome@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
