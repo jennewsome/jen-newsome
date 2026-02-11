@@ -24,4 +24,4 @@ Experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-666666?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newsomejen)
 [![GitHub](https://img.shields.io/badge/GitHub-666666?style=flat&logo=github&logoColor=white)](https://www.github.com/jennewsome)
 [![Email](https://img.shields.io/badge/Email-666666?style=flat&logo=gmail&logoColor=white)](mailto:jen.newsome@gmail.com)
-[![Website](https://img.shields.io/badge/Website-666666?style=flat&logo=googlechrome&logoColor=white)](https://jennewsome.com)
+[![Resume](https://img.shields.io/badge/Resume-666666?style=flat&logo=readdotcv&logoColor=white)](https://jennewsome.com/resume)
